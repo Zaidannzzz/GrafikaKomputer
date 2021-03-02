@@ -1,0 +1,5 @@
+﻿  Tugas 2.4.cpp
+F:\KULIAH\Semester 4\Grafika Komputer\Koding\Tugas 2.4\Tugas 2.4\Tugas 2.4.cpp(9,18): warning C4244: 'initializing': conversion from 'float' to 'clock_t', possible loss of data
+F:\KULIAH\Semester 4\Grafika Komputer\Koding\Tugas 2.4\Tugas 2.4\Tugas 2.4.cpp(21,29): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+F:\KULIAH\Semester 4\Grafika Komputer\Koding\Tugas 2.4\Tugas 2.4\Tugas 2.4.cpp(21,24): warning C4244: 'argument': conversion from 'double' to 'GLsizei', possible loss of data
+  Tugas 2.4.vcxproj -> F:\KULIAH\Semester 4\Grafika Komputer\Koding\Tugas 2.4\Debug\Tugas 2.4.exe
