@@ -1,0 +1,5 @@
+﻿  Tugas 2.2.cpp
+F:\KULIAH\Semester 4\Grafika Komputer\Koding\Tugas 2.2\Tugas 2.2\Tugas 2.2.cpp(22,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\KULIAH\Semester 4\Grafika Komputer\Koding\Tugas 2.2\Tugas 2.2\Tugas 2.2.cpp(23,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\KULIAH\Semester 4\Grafika Komputer\Koding\Tugas 2.2\Tugas 2.2\Tugas 2.2.cpp(24,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Tugas 2.2.vcxproj -> F:\KULIAH\Semester 4\Grafika Komputer\Koding\Tugas 2.2\Debug\Tugas 2.2.exe
